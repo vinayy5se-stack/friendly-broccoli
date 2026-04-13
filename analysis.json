@@ -8,17 +8,10 @@
     "type": "ladder",
     "base_threshold": 0.2611,
     "step_size": 0.065,
-    "current_step": 1,
-    "current_threshold": 0.3261,
-    "history": [
-      {
-        "from_step": 0,
-        "to_step": 1,
-        "threshold": 0.3261,
-        "confirmed_at": "2026-04-13T01:17:52.219712+00:00"
-      }
-    ],
-    "updated_at": "2026-04-13T01:17:52.219743+00:00"
+    "current_step": 0,
+    "current_threshold": 0.2611,
+    "history": [],
+    "updated_at": "2026-04-13T04:00:03.180026+00:00"
   },
-  "generated_at": "2026-04-13T01:53:43.448836+00:00"
+  "generated_at": "2026-04-13T04:02:49.563713+00:00"
 }
