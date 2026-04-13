@@ -1,0 +1,24 @@
+{
+  "two_pivot_module": {
+    "session1_time": "09:30-12:29",
+    "session2_time": "12:30-16:00",
+    "formula": "(H + L + C) / 3"
+  },
+  "volatility_ladder": {
+    "type": "ladder",
+    "base_threshold": 0.2611,
+    "step_size": 0.065,
+    "current_step": 1,
+    "current_threshold": 0.3261,
+    "history": [
+      {
+        "from_step": 0,
+        "to_step": 1,
+        "threshold": 0.3261,
+        "confirmed_at": "2026-04-13T01:17:52.219712+00:00"
+      }
+    ],
+    "updated_at": "2026-04-13T01:17:52.219743+00:00"
+  },
+  "generated_at": "2026-04-13T01:53:43.448836+00:00"
+}
